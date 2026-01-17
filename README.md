@@ -8,14 +8,6 @@ Features-
 4) CSV-based data (no database)
    
 
-project structure-
-rank_backend/
-├── app.py
-├── final_rank_list.csv
-└── branch_wise_ranks/
-    ├── MAC_rank_list.csv
-    ├── Mechanical_rank_list.csv
-    └── ...
 API Endpoints-
 1) Get student rank
 2) GET /user/rank/{roll_no}
